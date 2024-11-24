@@ -1,6 +1,6 @@
 EMAIL = "mauricio.mm94@gmail.com"
 PASSWORD = "Yotocoelpiano1!"
-ACTIVES = "EURUSD-OTC"
+ACTIVES = "EURUSD"
 BALANCE_TYPE = "PRACTICE"
 CANDLE_SIZE = 60
 PERIODS = 20
