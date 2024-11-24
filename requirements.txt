@@ -1,0 +1,4 @@
+my-iqoptionapi
+numpy
+schedule
+python-telegram-bot

@@ -1,0 +1,8 @@
+EMAIL = "mauricio.mm94@gmail.com"
+PASSWORD = "Yotocoelpiano1!"
+ACTIVES = "EURUSD-OTC"
+BALANCE_TYPE = "PRACTICE"
+CANDLE_SIZE = 60
+PERIODS = 20
+MAX_TRADES = 10
+RISK = 0.02
